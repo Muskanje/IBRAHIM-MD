@@ -51,8 +51,8 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "25471077266,254xxxxxx
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
 global.read_status = process.env.AUTO_READ_STATUS || "true"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
-global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254710772666,254xxxxxxxx";
+global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923037484167";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "923112657705,03037484167";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/";
